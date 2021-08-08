@@ -4,7 +4,7 @@ import math
 arr1 = []
 arr2 = []
 
-# Recurssive Algorithm
+# Algorithm 1
 
 
 def fib(n):
@@ -24,7 +24,7 @@ def fib(n):
 
 fib(50)
 
-# non-recursive Algorithm
+# Algorithm 2
 
 
 def fn(n):
